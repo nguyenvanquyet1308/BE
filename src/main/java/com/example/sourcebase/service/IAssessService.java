@@ -4,11 +4,7 @@ import com.example.sourcebase.domain.dto.reqdto.AssessDetailUpdateReqDTO;
 import com.example.sourcebase.domain.dto.reqdto.AssessReqDTO;
 import com.example.sourcebase.domain.dto.resdto.AssessResDTO;
 import com.example.sourcebase.domain.dto.resdto.AssessResUpdateDTO;
-import org.springframework.web.bind.annotation.RequestParam;
 
-import com.example.sourcebase.domain.dto.resdto.AssessResDTO; 
-import com.example.sourcebase.domain.dto.resdto.AssessResUpdateDTO; 
-import org.springframework.web.bind.annotation.RequestParam; 
 import java.util.List;
 
 public interface IAssessService {
